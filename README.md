@@ -1,20 +1,18 @@
-# 👋 Hi there, I'm Kavya Katariya!
+<h2 align='center'>Welcome to my GitHub page</h2><br>
+<div align='center'>
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI2cjgzNHVyM2g3dzFzOGdmNGY1Nm1vOGZyOW1vb2pqZnEwOGMwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ztfno2Qtm2dVxS81f5/giphy.gif" alt="Welcome GIF">
+</div>
+<h1 align='center'>👋 Hi there, I'm Kavya Katariya!</h1>
+<h3 align='center'>🔧 Junior Web Developer | 🌐 Based in Montreal, Canada  </h3>
+<h3 align='center'>💻 Passionate about building responsive websites and scalable web applications</h3>  
+<h3 align='center'>☁️ AWS Certified Cloud Practitioner | 📦 Exploring DevOps & Kubernetes</h3>
 
-🎓 Junior Web Developer | 🌐 Based in Montreal, Canada  
-💻 Passionate about building responsive websites and scalable web applications  
-☁️ AWS Certified Cloud Practitioner | 📦 Exploring DevOps & Kubernetes
-
----
-
-### 🚀 About Me
+### 🚀 More about Me
 
 I'm a curious and motivated developer with a background in **software development**, specializing in both **front-end** and **back-end** technologies. I enjoy solving problems, creating intuitive user interfaces, and continuously learning modern tech tools and practices.
 
-🔧 Currently working as a **Junior Web Developer**.
-
 ---
 
-# 💻 Tech Stack:
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
@@ -77,9 +75,7 @@ I'm a curious and motivated developer with a background in **software developmen
 
 ### 📫 Connect With Me
 
-- 📧 Email: [kavyakatariya097@gmail.com](mailto:kavyakatariya097@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/katariyakavya097](https://www.linkedin.com/in/katariyakavya097)  
-- 💼 Portfolio: Coming soon!
+- 💌 Please feel free to reach me on <a href="https://www.linkedin.com/in/katariyakavya097">LinkedIn</a> or via <a href="mailto:kavyakatariya097@gmail.com?"><strong>Email</strong></a>.
 
 ---
 
