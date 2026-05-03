@@ -3,7 +3,7 @@
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI2cjgzNHVyM2g3dzFzOGdmNGY1Nm1vOGZyOW1vb2pqZnEwOGMwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ztfno2Qtm2dVxS81f5/giphy.gif" alt="Welcome GIF">
 </div>
 <h1 align='center'>👋 Hi there, I'm Kavya Katariya!</h1>
-<h3 align='center'>🔧 Junior Web Developer | 🌐 Based in Montreal, Canada  </h3>
+<h3 align='center'>🔧 Junior Web Developer | 🌐 Based in Canada  </h3>
 <h3 align='center'>💻 Passionate about building responsive websites and scalable web applications</h3>  
 <h3 align='center'>☁️ AWS Certified Cloud Practitioner | 📦 Exploring DevOps & Kubernetes</h3>
 
