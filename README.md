@@ -66,13 +66,6 @@ I'm a curious and motivated developer with a background in **software developmen
 
 ---
 
-## 📈 GitHub Stats
-
-![Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkatariya097&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkatariya097&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect With Me
 
 - 💌 Please feel free to reach me on <a href="https://www.linkedin.com/in/katariyakavya097">LinkedIn</a> or via <a href="mailto:kavyakatariya097@gmail.com?"><strong>Email</strong></a>.
